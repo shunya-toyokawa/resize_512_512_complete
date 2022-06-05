@@ -1,4 +1,4 @@
-# resize768_1024_all_complete
+# resize512_512_all_complete
 
 
 ```
